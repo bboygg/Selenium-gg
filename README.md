@@ -10,12 +10,12 @@ Basically the pilot project followed [Selenium official manual](https://www.sele
 ### 1. Webdriver Manager
 Most machines automatically update the browser, but the driver does not. To make sure you get the correct driver for your browser, 
 there are many third party libraries to assist you.   
-[Link to Manual](https://www.selenium.dev/documentation/webdriver/getting_started/)
+[Link](https://www.selenium.dev/documentation/webdriver/getting_started/)
 
 
 ### 2. Design patterns for Test Automation
 
-[Link to Manual](https://www.selenium.dev/documentation/test_practices/design_strategies/)
+[Link](https://www.selenium.dev/documentation/test_practices/design_strategies/)
 
 
 AUT: short for Application under test
